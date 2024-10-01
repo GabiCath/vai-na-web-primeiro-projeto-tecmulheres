@@ -1,8 +1,7 @@
 Vai Na Web - Primeiro Projeto Tecmulheres
 Primeira versão do primeiro projeto Vai Na Web, onde explorei mais tags HTML. Este projeto apresenta páginas que falam sobre mulheres que fizeram grandes contribuições na área de tecnologia.
 
-Link do Projeto
-Visualizar projeto
+Link do Projeto: https://vai-na-web-primeiro-projeto-tecmulheres.vercel.app/
 
 Descrição
 Este projeto é composto por páginas estáticas em HTML, onde são destacados os perfis de mulheres influentes no campo da tecnologia. O objetivo é inspirar e educar sobre a importância da diversidade e representatividade na área tecnológica.
@@ -12,7 +11,7 @@ HTML
 
 Como Visualizar
 
-Acesse o link do projeto aqui
+https://vai-na-web-primeiro-projeto-tecmulheres.vercel.app/
 Navegue pelas páginas para conhecer mais sobre mulheres notáveis na tecnologia.
 
 
